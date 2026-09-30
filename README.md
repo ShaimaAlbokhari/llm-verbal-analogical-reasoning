@@ -52,6 +52,7 @@ Several English and Arabic verbal analogy and relational datasets were explored 
 - BATS
 - SCAN
 - U2 / U4
+- Algaoud
 - Qiyas Arabic Verbal Analogies
 - DiffVec
 
@@ -108,18 +109,14 @@ Lubb includes:
 
 🔗 **Lubb Repository:** [View on GitHub](https://github.com/ShaimaNabeel/Lubb)
 
----
-
 ## 📄 Project Materials
 
-The repository includes selected materials from the graduation project:
+Selected materials from the graduation research project are available in this repository:
 
-- **Research Poster**
-- **Project Presentation**
+- 🖼️ [View Research Poster](./docs/Can_Machines_Think_Like_Us_Poster.png)
+- 📊 [Download Project Presentation](./docs/Can_Machines_Think_Like_Us_Presentation.zip)
 
-The full research report and research datasets are not publicly distributed in this repository.
-
----
+> The full research report and research datasets are not publicly distributed in this repository.
 
 ## 👥 Research Team
 
