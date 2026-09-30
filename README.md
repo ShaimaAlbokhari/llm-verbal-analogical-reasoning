@@ -2,7 +2,7 @@
 
 ### The Ability of Large Language Models to Pass Verbal Analogical Reasoning in Aptitude Tests
 
-A graduation research project that investigates the ability of Large Language Models (LLMs) to solve verbal analogy questions in both **English and Arabic**, with a focus on evaluating and improving their analogical reasoning capabilities.
+A collaborative graduation research project that investigates the ability of Large Language Models (LLMs) to solve verbal analogy questions in both **English and Arabic**, with a focus on evaluating and improving their analogical reasoning capabilities.
 
 The project explores multiple approaches, including **Prompt Engineering, Chain-of-Thought prompting, fine-tuning experiments, and relational learning**, to better understand the strengths and limitations of LLMs in verbal analogical reasoning.
 
