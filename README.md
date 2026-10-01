@@ -129,9 +129,8 @@ Selected materials from the graduation research project are available in this re
 - 🖼️ [View Research Poster](./docs/Can_Machines_Think_Like_Us_Poster.png)
 - 📊 [Download Project Presentation](./docs/Can_Machines_Think_Like_Us_Presentation.zip)
 
-> The full research report and research datasets are not publicly distributed in this repository.
-
 > The full research report is not publicly distributed in this repository. Selected research-related datasets and preprocessing resources are documented separately when redistribution is permitted.
+
 ---
 
 ## 👥 Research Team
