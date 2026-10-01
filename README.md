@@ -43,6 +43,7 @@ A dedicated repository contains the preprocessing script, the original SCAN part
 
 > The SCAN dataset originates from the authors of *Scientific and Creative Analogies in Pretrained Language Models*. The dedicated repository includes the appropriate dataset attribution and links to the original source.
 
+---
 
 ### Approaches
 
