@@ -33,18 +33,6 @@ The research explored several language models and reasoning approaches, includin
 - RelBERT
 - Falcon-1B
 
-### SCAN Dataset Preprocessing
-
-As part of the research experiments, the SCAN dataset was preprocessed into a standardized four-option multiple-choice format for LLM evaluation.
-
-A dedicated repository contains the preprocessing script, the original SCAN partitions used in the project, and the processed four-option versions used in the experiments.
-
-🔗 [View SCAN Dataset Preprocessing Repository](https://github.com/ShaimaNabeel/scan-dataset-preprocessing)
-
-> The SCAN dataset originates from the authors of *Scientific and Creative Analogies in Pretrained Language Models*. The dedicated repository includes the appropriate dataset attribution and links to the original source.
-
----
-
 ### Approaches
 
 - Prompt Engineering
@@ -69,6 +57,17 @@ Several English and Arabic verbal analogy and relational datasets were explored 
 - DiffVec
 
 > The datasets are not redistributed in this repository. Some datasets originate from external sources and may be subject to their respective usage and distribution terms.
+
+
+### SCAN Dataset Preprocessing
+
+As part of the research experiments, the SCAN dataset was preprocessed into a standardized four-option multiple-choice format for LLM evaluation.
+
+A dedicated repository contains the preprocessing script, the original SCAN partitions used in the project, and the processed four-option versions used in the experiments.
+
+🔗 [View SCAN Dataset Preprocessing Repository](https://github.com/ShaimaNabeel/scan-dataset-preprocessing)
+
+> The SCAN dataset originates from the authors of *Scientific and Creative Analogies in Pretrained Language Models*. The dedicated repository includes the appropriate dataset attribution and links to the original source.
 
 ---
 
