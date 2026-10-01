@@ -33,6 +33,17 @@ The research explored several language models and reasoning approaches, includin
 - RelBERT
 - Falcon-1B
 
+### SCAN Dataset Preprocessing
+
+As part of the research experiments, the SCAN dataset was preprocessed into a standardized four-option multiple-choice format for LLM evaluation.
+
+A dedicated repository contains the preprocessing script, the original SCAN partitions used in the project, and the processed four-option versions used in the experiments.
+
+🔗 [View SCAN Dataset Preprocessing Repository](https://github.com/ShaimaNabeel/scan-dataset-preprocessing)
+
+> The SCAN dataset originates from the authors of *Scientific and Creative Analogies in Pretrained Language Models*. The dedicated repository includes the appropriate dataset attribution and links to the original source.
+
+
 ### Approaches
 
 - Prompt Engineering
@@ -109,6 +120,8 @@ Lubb includes:
 
 🔗 **Lubb Repository:** [View on GitHub](https://github.com/ShaimaNabeel/Lubb)
 
+---
+
 ## 📄 Project Materials
 
 Selected materials from the graduation research project are available in this repository:
@@ -117,6 +130,9 @@ Selected materials from the graduation research project are available in this re
 - 📊 [Download Project Presentation](./docs/Can_Machines_Think_Like_Us_Presentation.zip)
 
 > The full research report and research datasets are not publicly distributed in this repository.
+
+> The full research report is not publicly distributed in this repository. Selected research-related datasets and preprocessing resources are documented separately when redistribution is permitted.
+---
 
 ## 👥 Research Team
 
